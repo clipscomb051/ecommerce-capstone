@@ -1,12 +1,38 @@
-body
-{display:flex; 
-    
-    background-color: bisque;
+body {
+    display: flex;
+    flex-direction: column;
+    background-image: url(/images/super\ mario\ mushroom.gif);
     justify-content: center;
-    text-align:center  
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover
 }
-.block1{
-    display:flex;
-    
 
-}  
+body {
+    align-items: center;
+    
+}
+
+
+.block1 {
+    display: inline-block;
+    justify-content: space-around;
+    left: 0%;
+}
+
+.block2 {
+    display: inline-block;
+    justify-content: space-around;
+
+}
+
+.Lucky2 {
+    width: 40px;
+    height: 40px;
+    ;
+}
+
+.Login {
+    font-family: 'Courier New', Courier, monospace;
+}

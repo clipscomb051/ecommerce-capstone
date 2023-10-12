@@ -1,1 +1,18 @@
-body {align-items: center;}
+header {
+    background-image: url("/images/mystery\ box\ spinning.gif");
+    background-repeat: repeat-x;
+    background-size: 70px 70px;
+}
+
+.WELCOME {
+    padding-top: 10%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+body {
+    background-color: mediumturquoise;
+
+
+}
