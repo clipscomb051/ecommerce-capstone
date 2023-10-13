@@ -1,0 +1,28 @@
+body {
+    background-color: limegreen;
+    max-width: 100%;
+    background-image: url(/images/mario\ bckgr\ 2.png)
+}
+
+;
+
+.container {
+    color: blue;
+}
+
+
+.form-label {
+    text-align: start;
+}
+
+.WELCOME {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.SHOP {
+    text-align: center;
+}

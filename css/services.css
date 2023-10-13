@@ -1,19 +1,42 @@
+header {
+    text-align: center;
+    font-size: large;
+    padding-top: 10%;
+}
+
+header {
+    background-image: url("/images/mystery\ box\ spinning.gif");
+    background-repeat: repeat-x;
+    background-size: 70px 70px;
+}
+
+body {
+    background-color: rgb(152, 175, 231);
+    background-image: url(/images/mario\ bckgr\ 2.png);
+}
+
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.2);
     max-width: 300px;
     margin: auto;
     text-align: center;
     font-family: arial;
-    
-  }
-  
-  .price {
+    float: inline-start;
+
+
+}
+
+.price {
     color: grey;
     font-size: 22px;
-  }
-  
-  .card button {
+}
+
+.card button {
     border: none;
     outline: 0;
     padding: 17px;
@@ -23,8 +46,8 @@
     cursor: pointer;
     width: 100%;
     font-size: 18px;
-  }
-  
-  .card button:hover {
+}
+
+.card button:hover {
     opacity: 0.7;
-  }
+}
