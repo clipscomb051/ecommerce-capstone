@@ -10,7 +10,7 @@ header {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: oblique;
 }
-
+.nav-link {color: black;}
 body {
     background-color: lightskyblue;
 

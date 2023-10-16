@@ -3,11 +3,11 @@ body {
     max-width: 100%;
     background-image: url(/images/mario\ bckgr\ 2.png)
 }
-
+.nav-link {color: black;}
 ;
 
 .container {
-    color: blue;
+    color:brown;
 }
 
 

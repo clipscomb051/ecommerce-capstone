@@ -2,8 +2,9 @@ header {
     text-align: center;
     font-size: large;
     padding-top: 10%;
+    padding-bottom: 11%;
 }
-
+.nav-link {color: black;}
 header {
     background-image: url("/images/mystery\ box\ spinning.gif");
     background-repeat: repeat-x;
@@ -13,24 +14,185 @@ header {
 body {
     background-color: rgb(152, 175, 231);
     background-image: url(/images/mario\ bckgr\ 2.png);
+    padding-top: 17%;
 }
-
+ .fs-1{font-family: Georgia, 'Times New Roman', Times, serif;}
 
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.card {
+.card1 {
     box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.2);
-    max-width: 300px;
+    max-width: 200px;
     margin: auto;
     text-align: center;
     font-family: arial;
     float: inline-start;
+    background-color:aliceblue;
+    flex: auto;
 
 
 }
 
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 17px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+.card2 {
+    box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.2);
+    max-width: 200px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    float: inline-start;
+    background-color: aliceblue;
+
+
+}
+col{flex-direction: row;}
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 17px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+.card3 {
+    box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.2);
+    max-width: 200px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    float: inline-start;
+background-color: aliceblue;
+
+}
+col{flex-direction: column;}
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 17px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+.card4 {
+    box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.2);
+    max-width: 200px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    float: inline-start;
+    background-color: aliceblue;
+
+
+}
+col{flex-direction: column;}
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 17px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+.card5 {
+    box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.2);
+    max-width: 200px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    float: inline-start;
+    background-color: aliceblue;
+
+
+}
+col{flex-direction: row;}
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 17px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+.card6 {
+    box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.2);
+    max-width: 200px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    float: inline-start;
+    background-color: aliceblue;
+
+}
+col{flex-direction: row;}
 .price {
     color: grey;
     font-size: 22px;

@@ -12,8 +12,9 @@ h1 {
 .nav-tabs {
     padding-top: 9%;
     font-style: normal;
+    color: black;
 }
-
+.nav-link:link{color: black;}
 body {
     background-image: url(/images/mario\ background.gif);
 
